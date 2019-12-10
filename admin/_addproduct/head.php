@@ -1,0 +1,1 @@
+<title>Record insert on <?=__site_title?></title>

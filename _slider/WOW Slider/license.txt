@@ -1,0 +1,51 @@
+WOW Slider
+User License Agreement
+
+
+   1. WOWSlider.com grants you a non-exclusive license to use WOW Slider
+      according to license type and number of licenses purchased, for 
+	  any legal purpose.
+      
+   2. There are 2 basic types of licenses issued for WOW Slider: 
+      Non-Profit and Commercial.
+      2.1 Non-Profit License is intended for a non-commercial use at 
+          non-commercial websites. Non-Profit License is free.		  
+      2.2 Commercial Licenses allow using the software for profit purpose,
+          on commercial websites. Commercial Licenses allow installing the 
+          WOW Slider app on maximum two computers.
+          Single Website License allows the licensee to use the software 
+	  for ONE website/domain. 	  
+          Unlimited Website License allows using the software on an 
+	  unlimited number of websites the licensee owns or develops.	  
+ 
+   3. You MAY NOT:
+      3.1 distribute, sublicense, lease, rent, sell or transfer this 
+          software or any portion of it to other person or business;
+      3.2 remove any product identification, copyright notices, or other
+          notices or proprietary restrictions from this software;
+      3.3 modify, decompile, duplicate, "unlock", reverse-engineer or attempt 
+          to discover the source code or structure, sequence or organization 
+	  of this software;
+
+      Any such unauthorized use shall result in immediate and automatic
+      termination of this license and may result in criminal and/or civil
+      prosecution.
+      
+   4. All copyrights to WOW Slider are exclusively owned by WOWSlider.com. 
+      Any copy of this software, as well as created code, must contain all 
+      of the original copyright notices.
+	  
+   5. WOW SLIDER IS DISTRIBUTED "AS IS".
+      NO WARRANTY OF ANY KIND IS EXPRESSED OR IMPLIED.
+      YOU USE WOW Slider AT YOUR OWN RISK.
+      THE AUTHOR WILL NOT BE LIABLE FOR DATA LOSS,
+      DAMAGES, LOSS OF PROFITS OR ANY OTHER KIND OF
+      LOSS WHILE USING OR MISUSING THIS SOFTWARE.
+	  
+   6. Installing and using WOW Slider signifies acceptance of these terms 
+      and conditions of the license.
+	  
+
+   Copyright 2014 WOWSlider.com, All rights reserved.
+   Website: http://wowslider.com/
+   Email: support@wowslider.com

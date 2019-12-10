@@ -1,0 +1,16 @@
+#wowslider-container$GallerySuffix$ .ws_bulframe div div{
+	height: auto;
+}
+
+@media all and (max-width:400px){
+	#wowslider-container$GallerySuffix$:hover a.ws_playpause,
+	#wowslider-container$GallerySuffix$ a.ws_playpause,
+	#wowslider-container$GallerySuffix$:hover a.ws_prev,
+	#wowslider-container$GallerySuffix$ a.ws_prev,
+	#wowslider-container$GallerySuffix$:hover a.ws_next,
+	#wowslider-container$GallerySuffix$ a.ws_next,
+	#wowslider-container$GallerySuffix$ .ws_bullets,
+	#wowslider-container$GallerySuffix$ .ws_thumbs{
+		display: none
+	}
+}

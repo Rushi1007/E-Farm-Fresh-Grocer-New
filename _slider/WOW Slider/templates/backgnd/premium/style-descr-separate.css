@@ -1,0 +1,33 @@
+#wowslider-container$GallerySuffix$ .ws-title{
+	position:absolute;
+	display:block;
+	bottom: 3em;
+	left: 0;
+	margin-right:1em;
+	color:#000000;
+	z-index: 50;
+	font-family:$fontFamily$;
+	line-height: 2.6em;
+	font-weight: bold;
+}
+#wowslider-container$GallerySuffix$ .ws-title div,#wowslider-container$GallerySuffix$ .ws-title span{
+	display:inline-block;
+	background-color:rgba(220, 220, 220, 0.6);
+	border-radius:0 0.1em 0.1em 0;
+	-moz-border-radius:0 0.1em 0.1em 0;
+	-webkit-border-radius:0 0.1em 0.1em 0;
+}
+#wowslider-container$GallerySuffix$ .ws-title div{
+	display:block;
+	margin-top:0.3em;
+	font-size: 1.6em;
+	font-weight: normal;
+	color: #222222;
+	line-height: 1.15em;
+	padding:0.6em;
+}
+#wowslider-container$GallerySuffix$ .ws-title span{
+	padding:0.4em;
+	font-size: 2.4em;
+	line-height: 1.15em;
+}

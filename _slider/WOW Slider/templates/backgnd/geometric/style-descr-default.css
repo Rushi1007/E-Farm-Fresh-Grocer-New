@@ -1,0 +1,23 @@
+#wowslider-container$GallerySuffix$ .ws-title{
+	position: absolute;
+	bottom:5em;
+	left: 5em;
+	margin-right:10em;
+	z-index: 50;
+	background: none;
+    color: #FFFFFF;
+	padding: 1em;
+	line-height: 1.8em;
+	font-family: $fontFamily$;
+	text-transform: uppercase;
+	border: 1px solid #FFFFFF;
+}
+#wowslider-container$GallerySuffix$ .ws-title div{
+    margin-top: 0.5em;
+	font-size: 1.4em;
+	line-height: 0.8em;
+	text-transform: none;
+}
+#wowslider-container$GallerySuffix$ .ws-title span{
+	font-size: 1.8em;
+}

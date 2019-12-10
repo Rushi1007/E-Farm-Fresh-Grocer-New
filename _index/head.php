@@ -1,0 +1,1 @@
+<title><?=__site_title?></title>
